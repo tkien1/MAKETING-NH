@@ -7,12 +7,12 @@ from io import BytesIO
 # CẤU HÌNH
 # ==========================================
 
-st.set_page_config(
+st.set_page_config(st.image("logo.jpg")
     page_title="Quản lý khách hàng",
     page_icon="👤",
     layout="wide"
 )
-st.image("logo.jpg")
+
 
 # ==========================================
 # KHỞI TẠO DANH SÁCH KHÁCH HÀNG
