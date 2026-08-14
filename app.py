@@ -7,7 +7,7 @@ from io import BytesIO
 # CẤU HÌNH
 # ==========================================
 
-st.set_page_config
+st.set_page_config(
     page_title="Quản lý khách hàng",
     page_icon="👤",
     layout="wide"
