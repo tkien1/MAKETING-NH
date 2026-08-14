@@ -12,8 +12,8 @@ st.set_page_config(
     page_icon="👤",
     layout="wide"
 )
+st.image("logo.jpg")
 
-st.image("logo.jpg"
 
 # ==========================================
 # KHỞI TẠO DANH SÁCH KHÁCH HÀNG
